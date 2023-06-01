@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/trevland/static/css/main.f9206036.css",
+    "main.js": "/trevland/static/js/main.01b89dab.js",
+    "static/media/main-bg.jpg": "/trevland/static/media/main-bg.59291297b715feab3a7a.jpg",
+    "static/media/blog1.jpg": "/trevland/static/media/blog1.0ae8756e4650a2bd795d.jpg",
+    "static/media/card2.jpg": "/trevland/static/media/card2.5364f6077e457426b9cb.jpg",
+    "static/media/card6.jpg": "/trevland/static/media/card6.a73e22a903a41f4fc504.jpg",
+    "static/media/card3.jpg": "/trevland/static/media/card3.9e690ab9859136c37891.jpg",
+    "static/media/card1.jpg": "/trevland/static/media/card1.4f3de405831325eaf426.jpg",
+    "static/media/card5.jpg": "/trevland/static/media/card5.bf67c814f349d1cf526b.jpg",
+    "static/media/slide4.jpg": "/trevland/static/media/slide4.3f981e559ab54f3a9b94.jpg",
+    "static/media/slide1.jpg": "/trevland/static/media/slide1.8eba908fbaf723c48d6e.jpg",
+    "static/media/blog4.jpg": "/trevland/static/media/blog4.45939d608410576fd23e.jpg",
+    "static/media/blog3.jpg": "/trevland/static/media/blog3.398846d3b8bb135caaa4.jpg",
+    "static/media/slide2.jpg": "/trevland/static/media/slide2.7c16cda5f5bd017739bc.jpg",
+    "static/media/blog2.jpg": "/trevland/static/media/blog2.0be23c5f663cf6c98cfd.jpg",
+    "static/media/slide5.jpg": "/trevland/static/media/slide5.f496123a20e16643f82d.jpg",
+    "static/media/card4.jpg": "/trevland/static/media/card4.b678c8d71fad8d794d87.jpg",
+    "static/media/slide3.jpg": "/trevland/static/media/slide3.b5be2e2cb7115b1533c2.jpg",
+    "static/media/inst.svg": "/trevland/static/media/inst.92fdafc9c72b8e44f34b87c4a2140d5d.svg",
+    "static/media/twitt.svg": "/trevland/static/media/twitt.3600c8884cb8a65d5db60e858d135f50.svg",
+    "static/media/goog.svg": "/trevland/static/media/goog.38e7988ebc58bd80383c757b7fdcb446.svg",
+    "static/media/point.svg": "/trevland/static/media/point.77e4130658a5b430a7a8c4d0dc58be03.svg",
+    "static/media/star.svg": "/trevland/static/media/star.d3f1c8b589a5fabf5513bb1878a58e21.svg",
+    "index.html": "/trevland/index.html",
+    "static/media/faceb.svg": "/trevland/static/media/faceb.feff0cb9715cfbeea16824ce2154bc81.svg",
+    "main.f9206036.css.map": "/trevland/static/css/main.f9206036.css.map",
+    "main.01b89dab.js.map": "/trevland/static/js/main.01b89dab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9206036.css",
+    "static/js/main.01b89dab.js"
+  ]
+}
